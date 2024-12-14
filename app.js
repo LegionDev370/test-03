@@ -274,3 +274,5 @@
 let array = [];
 
 array.forEach((element) => {});
+
+while (true) {}
