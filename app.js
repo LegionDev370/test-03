@@ -275,4 +275,6 @@ let array = [];
 
 array.forEach((element) => {});
 
-while (true) {}
+// while (true) {}
+
+const a = 23;
