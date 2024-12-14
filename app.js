@@ -278,3 +278,5 @@ array.forEach((element) => {});
 // while (true) {}
 
 const a = 23;
+
+function getData() {}
